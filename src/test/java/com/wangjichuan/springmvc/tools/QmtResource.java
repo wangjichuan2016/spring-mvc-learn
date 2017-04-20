@@ -23,7 +23,7 @@ import java.util.*;
  * Created by wangjichuan on 17/4/7.
  */
 public class QmtResource {
-    private String session = "86400ecd-98d6-4962-850f-1476666b3f50";
+    private String session = "5a6fc922-265d-44b8-af7d-8d1b4bcec197";
     @Test
     public void batchPublish() throws Exception{
         Set<Long> resourceIds = Collections.synchronizedSet(new HashSet<Long>());
